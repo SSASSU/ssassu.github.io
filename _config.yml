@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Here I Go Again
+title: DevOps Lab.
 email: pururoong@gmail.com
 author: pururoong
 copyright: Copyright © 2022-2023
