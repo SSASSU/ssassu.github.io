@@ -37,6 +37,13 @@ A[Christmas] -->|Get money| B(Go shopping)
   C -->|Three| F[fa:fa-car Car]
 ```
 
+@startmermaid
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+@endmermaid
+
 ### 3. Class diagram
 ```mermaid!
 classDiagram
